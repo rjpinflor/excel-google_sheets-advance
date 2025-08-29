@@ -1,5 +1,6 @@
 # excel-google_sheets-advance
 manejo de hojas de cálculo, (uso de funciones como BuscarV, tablas dinámicas, manejo de fechas, concatenar)
+Este trabajos se realizó en google Sheets. para verlo adecuadamente descargalo y cargalo en plataforma de google
 
 # Segmentación de Clientes con RFM
 
